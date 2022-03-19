@@ -1,14 +1,5 @@
 @charset "UTF-8";
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
---*/
-/*!
- * Bootstrap v4.4.1 (https://getbootstrap.com/)
- * Copyright 2011-2019 The Bootstrap Authors
- * Copyright 2011-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -14941,7 +14932,7 @@ nav ul li a:hover {
   align-items: center;
   background-size: cover;
   -ms-background-size: cover;
-  background-image: var(--banner), url(../images/banner.jpg);
+  background-image: var(--banner), url(https://officialrahulchauhan.github.io/assets/images/rahul1.PNG);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -17291,5 +17282,3 @@ button.owl-next {
     margin-top: 30px;
   }
 }
-
-/*# sourceMappingURL=style-freedom.css.map */
