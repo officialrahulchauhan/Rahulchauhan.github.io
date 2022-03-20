@@ -14932,7 +14932,7 @@ nav ul li a:hover {
   align-items: center;
   background-size: cover;
   -ms-background-size: cover;
-  background-image: var(--banner), url(assets/images/r4.PNG);
+  background-image: var(--banner), url(assets/images/banner.PNG);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   background-attachment: fixed;
